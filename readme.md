@@ -36,8 +36,9 @@ SMARTKITCHENRECOMMENDATION/
 ## ⚙️ Setup
 1. Clone repo
 ```Bash
-git clone https://github.com/Hiihyhyhuhu/BackKhoaInnovation2026.git
-cd BackKhoaInnovation2026
+git clone https://github.com/Hiihyhyhuhu/SmartKitchenReccommendationSystem.git
+cd SmartKitchenReccommendationSystem
+code .
 ```
 2. Create environment
 ```Bash
